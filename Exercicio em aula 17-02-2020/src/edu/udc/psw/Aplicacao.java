@@ -13,6 +13,7 @@ import java.util.Scanner;
 
 public class Aplicacao {
 	//private FileWriter output; //Objeto utilizado para gerar saída de texto no arquivo.
+	//
 	
 	public static void main(String[] args) {
 		new Aplicacao();
