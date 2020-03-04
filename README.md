@@ -1,2 +1,1 @@
-# PS2
-Projeto de Java - 2020
+Repositorio referente aos algoritmos desenvolvidos na materia de Projeto de Software II
