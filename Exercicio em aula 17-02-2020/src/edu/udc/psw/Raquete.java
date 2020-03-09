@@ -10,6 +10,7 @@ public class Raquete implements Serializable{
 	
 	private static final long serialVersionUID = 1L;
 	
+	//teste2
 	float peso;
 	int comprimento;
 	String cor;
